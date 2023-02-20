@@ -1,0 +1,27 @@
+MP3 Player
+This program is an MP3 player built with Python's Pygame library that plays MP3 files from a user-selected folder. 
+The program displays the currently playing MP3 file and provides options to play, pause, skip, and change the current MP3 file.
+
+Getting Started
+To run the program, navigate to the directory where the Executable is saved and run it
+
+A file dialog will appear asking you to select a folder containing MP3 files. 
+Once you have selected a folder, the program will load the first MP3 file in the folder and display the file name on the window.
+
+To play the MP3 file, click the play button. 
+To pause the MP3 file, click the pause button. 
+To skip to the next MP3 file in the folder, click the skip button. 
+To play the previous MP3 file in the folder, click the previous button. 
+To play the next MP3 file in the folder, click the next button.
+You may also change the background by adding a png image into the executable folder and renaming it to background. The file will not run without it
+The background must be atleast 400 by 150 to work properly
+
+The program will automatically loop back to the beginning of the folder once it has reached the end of the list of MP3 files.
+
+Authors
+This program was written by ChatGPT with help from Extraguy
+
+Acknowledgments
+This program was built using the Pygame library, which was created by a community of developers led by Pete Shinners.
+This program was created with the help from ChatGPT. I asked it to built me parts of the code and worked from there.
+Its actually a viable way to learn to code as it gives information to you directly. I could not dream of making something like this earlier today.
